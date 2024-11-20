@@ -9,7 +9,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2014.png",Canal 14
 #EXTVLCOPT:http-referrer=https://www.canalcatorce.tv/
-https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%2022.jpg",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/Canal%20del%20Congreso.png",Canal del Congreso 45.1
